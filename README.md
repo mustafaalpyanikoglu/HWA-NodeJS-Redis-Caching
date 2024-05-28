@@ -1,6 +1,6 @@
 # HWA-NodeJS-Redis-Caching
 
-Bu proje, Node.js kullanarak geliştirilmiş bir RESTful API'yi ve çeşitli yapıları içerir. Temel amaç, middleware, redil ile önbellek (cache) yönetimi ve loglama gibi yapıların nasıl kullanılacağını göstermektir.
+Bu proje, Node.js kullanarak geliştirilmiş bir RESTful API'yi ve çeşitli yapıları içerir. Temel amaç, middleware, redis ile önbellek (cache) yönetimi ve loglama gibi yapıların nasıl kullanılacağını göstermektir.
 
 <img src="https://www.aihr.com/wp-content/uploads/performance-management-cover.png" width="1000" height="553" alt="">
 
