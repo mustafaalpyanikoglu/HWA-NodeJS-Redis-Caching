@@ -85,3 +85,8 @@ Paylaşılan modeller, sabitler ve yardımcı işlevlerin yer aldığı bir inde
 - **Utils**
   - logger.utils.js -> Loglama işlemlerini gerçekleştiren yardımcı fonksiyonlar.
   - request.utils.js -> İstek nesnesinden bilgi çıkarmak için yardımcı fonksiyonlar.
+
+## Kaynakça
+
+- [Node.js Üzerinde Redis Kullanımı ve Refactoring](https://www.borakasmer.com/nodejs-uzerinde-redis-kullanimi-ve-refactoring/)
+- [Node.js ve Angular Üzerinde Authentication ve Security](https://www.borakasmer.com/nodejs-ve-angular-uzerinde-authentication-ve-security/)
