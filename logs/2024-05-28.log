@@ -1,0 +1,80 @@
+{
+  path: 'GET /planets',
+  level: 'info',
+  message: '15:16:38',
+  timestamp: '2024-05-28T12:16:38.302Z'
+}
+{
+  path: 'GET /planets/1',
+  params: { id: '1' },
+  level: 'info',
+  message: '15:19:51',
+  timestamp: '2024-05-28T12:19:51.033Z'
+}
+{
+  path: 'GET /planets',
+  level: 'info',
+  message: '15:21:36',
+  timestamp: '2024-05-28T12:21:36.888Z'
+}
+{
+  path: 'GET /planets/1',
+  params: { id: '1' },
+  level: 'info',
+  message: '15:21:45',
+  timestamp: '2024-05-28T12:21:45.083Z'
+}
+{
+  path: 'GET /planets/2',
+  params: { id: '2' },
+  level: 'info',
+  message: '15:21:52',
+  timestamp: '2024-05-28T12:21:52.185Z'
+}
+{
+  path: 'GET /planets/2',
+  params: { id: '2' },
+  level: 'info',
+  message: '15:29:12',
+  timestamp: '2024-05-28T12:29:12.885Z'
+}
+{
+  path: 'GET /planets',
+  level: 'info',
+  message: '15:30:02',
+  timestamp: '2024-05-28T12:30:02.692Z'
+}
+{
+  path: 'GET /planets/1',
+  params: { id: '1' },
+  level: 'info',
+  message: '15:31:08',
+  timestamp: '2024-05-28T12:31:08.444Z'
+}
+{
+  message: 'Server is running at http://127.0.0.1:3000',
+  level: 'info',
+  timestamp: '2024-05-28T12:40:34.526Z'
+}
+{
+  message: 'Server is running at http://127.0.0.1:3000',
+  level: 'info',
+  timestamp: '2024-05-28T12:42:57.179Z'
+}
+{
+  message: 'Server is running at http://127.0.0.1:3000',
+  level: 'info',
+  timestamp: '2024-05-28T12:44:02.668Z'
+}
+{
+  message: 'Server is running at http://127.0.0.1:3000',
+  level: 'info',
+  timestamp: '2024-05-28T12:44:20.666Z'
+}
+{
+  path: 'GET /planets/1',
+  params: { id: '1' },
+  level: 'info',
+  message: '15:45:22',
+  timestamp: '2024-05-28T12:45:22.319Z'
+}

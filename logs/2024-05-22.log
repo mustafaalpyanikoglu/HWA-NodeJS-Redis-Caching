@@ -1,0 +1,115 @@
+{
+  path: 'GET /planets',
+  level: 'error',
+  message: '19:12:27',
+  timestamp: '2024-05-22T16:12:27.683Z'
+}
+{
+  path: 'GET /planets',
+  level: 'info',
+  message: '19:12:27',
+  timestamp: '2024-05-22T16:12:27.684Z'
+}
+{
+  path: 'GET /planets',
+  level: 'warn',
+  message: '19:12:27',
+  timestamp: '2024-05-22T16:12:27.684Z'
+}
+{
+  path: 'GET /planets/1',
+  params: { id: '1' },
+  level: 'error',
+  message: '19:13:26',
+  timestamp: '2024-05-22T16:13:26.048Z'
+}
+{
+  path: 'GET /planets/1',
+  params: { id: '1' },
+  level: 'info',
+  message: '19:13:26',
+  timestamp: '2024-05-22T16:13:26.052Z'
+}
+{
+  path: 'GET /planets/1',
+  params: { id: '1' },
+  level: 'warn',
+  message: '19:13:26',
+  timestamp: '2024-05-22T16:13:26.052Z'
+}
+{
+  path: 'GET /planets/2',
+  params: { id: '2' },
+  level: 'error',
+  message: '19:13:50',
+  timestamp: '2024-05-22T16:13:50.553Z'
+}
+{
+  path: 'GET /planets/2',
+  params: { id: '2' },
+  level: 'info',
+  message: '19:13:50',
+  timestamp: '2024-05-22T16:13:50.554Z'
+}
+{
+  path: 'GET /planets/2',
+  params: { id: '2' },
+  level: 'warn',
+  message: '19:13:50',
+  timestamp: '2024-05-22T16:13:50.554Z'
+}
+{
+  path: 'GET /planets/3',
+  params: { id: '3' },
+  level: 'error',
+  message: '19:13:58',
+  timestamp: '2024-05-22T16:13:58.002Z'
+}
+{
+  path: 'GET /planets/3',
+  params: { id: '3' },
+  level: 'info',
+  message: '19:13:58',
+  timestamp: '2024-05-22T16:13:58.002Z'
+}
+{
+  path: 'GET /planets/3',
+  params: { id: '3' },
+  level: 'warn',
+  message: '19:13:58',
+  timestamp: '2024-05-22T16:13:58.003Z'
+}
+{
+  path: 'GET /planets/4',
+  params: { id: '4' },
+  level: 'error',
+  message: '19:14:56',
+  timestamp: '2024-05-22T16:14:56.401Z'
+}
+{
+  path: 'GET /planets/4',
+  params: { id: '4' },
+  level: 'info',
+  message: '19:14:56',
+  timestamp: '2024-05-22T16:14:56.401Z'
+}
+{
+  path: 'GET /planets/4',
+  params: { id: '4' },
+  level: 'warn',
+  message: '19:14:56',
+  timestamp: '2024-05-22T16:14:56.402Z'
+}
+{
+  path: 'GET /planets/14',
+  params: { id: '14' },
+  level: 'info',
+  message: '19:15:24',
+  timestamp: '2024-05-22T16:15:24.450Z'
+}
+{
+  path: 'GET /planets',
+  level: 'info',
+  message: '19:17:29',
+  timestamp: '2024-05-22T16:17:29.524Z'
+}
